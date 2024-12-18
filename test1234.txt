@@ -1,6 +1,6 @@
-  location1234                             = azurerm_resource_group.test.location
-  storage_data_lake_gen2_filesystem_id = azurerm_storage_data_lake_gen2_filesystem.test.id
-  sql_administrator_login              = "sqladminuser"
-  sql_administrator_login_password1234     = "H@Sh1CoR3!12345"
+  location12345                             = azurerm_resource_group.test.location
+  storage_data_lake_gen2_filesystem_id45 = azurerm_storage_data_lake_gen2_filesystem.test.id
+  sql_administrator_login45              = "sqladminuser123"
+  sql_administrator_login_password12345     = "H@Sh1CoR3!1234675"
   identity {
     type         = "SystemAssigned, UserAssigned"
